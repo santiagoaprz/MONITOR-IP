@@ -1,0 +1,4 @@
+2025-09-02T14:54:59-06:00 DB connect error: SQLSTATE[HY000] [1049] Unknown database 'monitoring'
+2025-09-02T14:55:19-06:00 DB connect error: SQLSTATE[HY000] [1049] Unknown database 'monitoring'
+2025-09-02T15:01:33-06:00 DB connect error: SQLSTATE[HY000] [1049] Unknown database 'monitoring'
+2025-09-02T15:01:47-06:00 DB connect error: SQLSTATE[HY000] [1049] Unknown database 'monitoring'
